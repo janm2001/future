@@ -1,0 +1,67 @@
+.future-bg{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(img/future.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.future-bg h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:4rem;
+    color:rgb(7, 0, 73);
+}
+
+.center{
+    text-align:center;
+
+}
+
+body{
+    font-family: font-family: 'Bilbo', cursive;;
+}
+
+main li{
+    padding:20px;
+    font-size: 1.5rem;
+}
+
+
+
+main{
+    padding-top:50px;
+    background: #eee;
+}
+
+#bg{
+    background: url(img/tvz.jpg);
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main h2{
+    padding:10px;
+    margin-bottom:20px;
+}
+
+.img{
+    text-align: center;
+}
+
+.right{
+    text-align:right;
+}
+
+footer{
+    background: rgb(233, 232, 232);
+    padding:10px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
